@@ -22,7 +22,4 @@ Steps: -
 
 ![download (4)](https://user-images.githubusercontent.com/58924096/127785826-3f25a507-6962-41a8-a3d0-42cda56f6a9c.png)
 
-
-
-Applied a Lowpassfilter on original image. And repeated the above process.
-Compared and Analyse which technique gives better result by using scikit-imagel ibrary.
+Repeated all the above steps for average image and observe that image without using low pass filter gives better result.  
